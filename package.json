@@ -1,0 +1,28 @@
+{
+  "name": "webdriverjs-typescript-setup",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --project tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trendfollowerpl/Webdriverjs-Typescript-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trendfollowerpl/Webdriverjs-Typescript-setup/issues"
+  },
+  "homepage": "https://github.com/trendfollowerpl/Webdriverjs-Typescript-setup#readme",
+  "dependencies": {
+    "chromedriver": "^2.38.3",
+    "typescript": "^2.8.3",
+    "selenium-webdriver": "3.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.1.0",
+    "@types/selenium-webdriver": "3.0.8"
+  }
+}
