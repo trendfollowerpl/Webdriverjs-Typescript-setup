@@ -18,6 +18,7 @@
   "homepage": "https://github.com/trendfollowerpl/Webdriverjs-Typescript-setup#readme",
   "dependencies": {},
   "devDependencies": {
-    "selenium-webdriver": "^3.6.0"
+    "@types/selenium-webdriver": "3.0.8",
+    "selenium-webdriver": "3.6.0"
   }
 }
