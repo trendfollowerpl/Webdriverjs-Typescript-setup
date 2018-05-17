@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/trendfollowerpl/Webdriverjs-Typescript-setup/issues"
   },
-  "homepage": "https://github.com/trendfollowerpl/Webdriverjs-Typescript-setup#readme"
+  "homepage": "https://github.com/trendfollowerpl/Webdriverjs-Typescript-setup#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "selenium-webdriver": "^3.6.0"
+  }
 }
