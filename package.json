@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/trendfollowerpl/Webdriverjs-Typescript-setup#readme",
   "dependencies": {
+    "chromedriver": "^2.38.3",
+    "install": "^0.11.0",
+    "npm": "^6.0.1",
     "typescript": "^2.8.3"
   },
   "devDependencies": {
